@@ -1,0 +1,16 @@
+*.py[co]
+
+# Iris source repo
+iris
+
+# Conda environments
+env
+
+# HTML output
+html
+
+# Created by editiors
+*~
+\#*
+\.\#*
+*.swp
